@@ -2,8 +2,7 @@
 using namespace std;
 typedef long long ll;
 
-int main()
-{
+int main() {
     ll num1, num2;
     while (cin >> num1 >> num2)
         cout << abs(num1-num2) << endl;
