@@ -1,4 +1,5 @@
-# 10035 Primary Arithmetic
+# [10035 Primary Arithmetic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=976)
+
 Children are taught to add multi-digit numbers from right-to-left one digit at a time. Many find the
 “carry” operation - in which a 1 is carried from one digit position to be added to the next - to be a
 significant challenge. Your job is to count the number of carry operations for each of a set of addition
